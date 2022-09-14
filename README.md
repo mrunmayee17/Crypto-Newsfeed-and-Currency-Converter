@@ -1,5 +1,4 @@
-<img width="1047" alt="Screen Shot 2022-09-14 at 5 22 47 PM" src="https://user-images.githubusercontent.com/48186569/190265593-8c1b8d12-6001-4ef5-bc5e-573abde155fd.png">
-<img width="1047" alt="Screen Shot 2022-09-14 at 5 22 47 PM" src="https://user-images.githubusercontent.com/48186569/190265621-07edec6c-bc19-4910-86cb-28355fd7a4eb.png">
+
 # Getting Started with Crypto Dashboard
 
 We can view live crypto news feeds, get conversion of crypto currencies and exchange rate using Crypto News Live api for the news feeds and Alpha vantage api for conversion rates. 
@@ -78,5 +77,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-<img width="1047" alt="Screen Shot 2022-09-14 at 5 22 47 PM" src="https://user-images.githubusercontent.com/48186569/190265909-64e25379-0f0e-4168-9a87-aa65315bca6b.png">
-<img width="1047" alt="Screen Shot 2022-09-14 at 5 22 47 PM" src="https://user-images.githubusercontent.com/48186569/190265910-5f308bc4-591d-4aba-8faf-1d763bc9f26d.png">
+
