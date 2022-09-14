@@ -1,3 +1,5 @@
+<img width="1047" alt="Screen Shot 2022-09-14 at 5 22 47 PM" src="https://user-images.githubusercontent.com/48186569/190265593-8c1b8d12-6001-4ef5-bc5e-573abde155fd.png">
+<img width="1047" alt="Screen Shot 2022-09-14 at 5 22 47 PM" src="https://user-images.githubusercontent.com/48186569/190265621-07edec6c-bc19-4910-86cb-28355fd7a4eb.png">
 # Getting Started with Crypto Dashboard
 
 We can view live crypto news feeds, get conversion of crypto currencies and exchange rate using Crypto News Live api for the news feeds and Alpha vantage api for conversion rates. 
@@ -7,6 +9,9 @@ API Link: https://rapidapi.com/alphavantage/api/alpha-vantage/
 
 
 API Link: https://rapidapi.com/ddeshon/api/crypto-news-live3/
+
+Dash Board:
+<img width="1047" alt="Screen Shot 2022-09-14 at 5 22 47 PM" src="https://user-images.githubusercontent.com/48186569/190265899-30a895ab-25a0-40c0-9b2f-a5a13ac8bd53.png">
 
 ## Available Scripts
 
@@ -46,8 +51,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<img width="1047" alt="Screen Shot 2022-09-14 at 5 22 47 PM" src="https://user-images.githubusercontent.com/48186569/190265871-8f6832db-0a02-4db1-98b6-761faa444118.png">You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
@@ -74,3 +78,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="1047" alt="Screen Shot 2022-09-14 at 5 22 47 PM" src="https://user-images.githubusercontent.com/48186569/190265909-64e25379-0f0e-4168-9a87-aa65315bca6b.png">
+<img width="1047" alt="Screen Shot 2022-09-14 at 5 22 47 PM" src="https://user-images.githubusercontent.com/48186569/190265910-5f308bc4-591d-4aba-8faf-1d763bc9f26d.png">
